@@ -19,7 +19,7 @@ I am a student who loves coding <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I learn some new knowledge and communicate with others who have the same interests as me.
 
-- :mailbox: How to reach me: <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="30">xiaoxi_tw
+- :mailbox: How to reach me: <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="15">xiaoxi_tw
 
 ---
 
