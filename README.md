@@ -6,6 +6,11 @@
 <p align="center">
     <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=I+am+Jimmy;I+plays+Minecraft;Yoooooo;Subscribe+my+Channel;Join+my+DC+Server;print(%22Hello+World%22);Helloworld(%22print%22)">
 </p>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jimmy20180130&style=flat-square&color=blue" alt=""></p>
 
 ---
 
