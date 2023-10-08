@@ -41,7 +41,7 @@ I am a student who loves coding <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 
 <a href="https://git.io/streak-stats"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=jimmy20180130&theme=dark"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy20180130&layout=compact&theme=vision-friendly-dark"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy20180130&layout=compact&theme=vision-friendly-dark"></a>
 
 <!--
 
