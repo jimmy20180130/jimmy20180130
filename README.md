@@ -24,7 +24,7 @@ I am a student who loves coding <img src="https://media.giphy.com/media/WUlplcMp
 
 - :mailbox: How to reach me: <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="15"> xiaoxi_tw
 
-<img src="https://discord.c99.nl/widget/theme-4/971730686685880322.png">
+<img src="https://discord.c99.nl/widget/theme-4/971730686685880322.png" width="100">
 
 ---
 
