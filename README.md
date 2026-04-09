@@ -4,7 +4,7 @@
     <h1 align="center">✩&emsp;Jimmy&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&width=280&height=50&lines=I+am+Jimmy;a Minecraft Player;print(%22Hello+World%22);Helloworld(%22print%22)">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&width=280&height=50&lines=I+am+Jimmy;a+Minecraft+Player;print(%22Hello+World%22);Helloworld(%22print%22)">
 </p>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
